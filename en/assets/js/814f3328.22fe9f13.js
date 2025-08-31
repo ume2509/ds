@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_website=self.webpackChunktest_website||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Blog \u6700\u65b0\u8a18\u4e8b","items":[{"title":"\u4eba\u9593\u578b  ET \u3068\u306e\u906d\u9047\u4e8b\u4f8b","permalink":"/ds/en/blog/2025/09/01/preston_dennett","unlisted":false,"date":"2025-09-01T00:00:00.000Z"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_website=self.webpackChunktest_website||[]).push([[3918],{6814:e=>{e.exports=JSON.parse('{"tags":[{"label":"UFO","permalink":"/ds/en/blog/tags/UFO","description":"UFO \u95a2\u9023","count":1},{"label":"2025-08","permalink":"/ds/en/blog/tags/2025-08","description":"2025-08","count":1}]}')}}]);
